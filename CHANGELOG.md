@@ -1,5 +1,9 @@
 # eu_central_bank changelog
 
+## 1.0.2 (Sep 06 2018)
+
+* Fix ssl redirection issues for xml rates files
+
 ## 1.0.1 (May 20 2016)
 
 * Fixed compatibility with recent Money gem
